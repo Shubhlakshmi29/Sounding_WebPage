@@ -1,2 +1,33 @@
 # Sounding_WebPage
 Created a makeup procedure - step by step web page which produces sound every time a button is clicked
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Makeup Order</title>
+  <link rel="stylesheet" href="sound.css">
+  <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+</head>
+
+<body>
+
+  <h1 id="title">Makeup Order</h1>
+  <div class="set">
+    <button class="Primer MU" style="background-image: url(primer_2.jpg)">Primer</button>
+    <button class="Foundation MU" style="background-image: url(foundation.jpg)">Foundation</button>
+    <button class="Facepowder MU" style="background-image: url(facepowder.jpg)">Facepowder</button>
+    <button class="Eyeshadow MU" style="background-image: url(eyeshadow.jpg)">Eyeshadow</button>
+    <button class="Mascara MU" style="background-image: url(eyeliner.jpg)">Mascara</button>
+    <button class="Lipstick MU" style="background-image: url(lipstick.jpg)">Lipstick</button>
+    <button class="Blush MU" style="background-image: url(blush_3.jpg)">Blush</button>
+    <button class="Highlighter MU" style="background-image: url(highlighter2.jpg)">Highlighter</button>
+  </div>
+
+  <footer>
+  </footer>
+
+  <script src="sound.js"></script>
+</body>
+
+</html>
