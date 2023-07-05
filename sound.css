@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+    background-color: #330937;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #bb51ce;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #da047d;
+  
+  }
+  
+  footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+  
+  .Primer {
+       
+  }
+  
+  .Foundation  {
+  
+  }
+  
+  .Facepowder {
+  
+  }
+  
+  .Eyeshadow {
+  
+  }
+  
+  .Mascara {
+  
+  }
+  
+  .Lipstick {
+  
+  }
+  
+  .Blush {
+  
+  }
+
+  .Highlighter {
+  }
+  
+  .set {
+    margin: 10% auto;
+  }
+  
+  .game-over {
+    background-color: rgb(181, 146, 179);
+    opacity: 0.8;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #413e42;
+    opacity: 1;
+  }
+  
+  .red {
+    color: rgb(121, 43, 106);
+  }
+  
+  .MU {
+    outline: none;
+    border: 10px solid #674069;
+    font-size: 20px;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #aa2c85;
+    text-shadow: 3px 0 #e6dee7;
+    border-radius: 15px;
+    display:flexbox;
+    width: 150px;
+    height: 150px;
+    text-align: justify;
+    margin: 10px;
+    background-color: rgb(227, 221, 227);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+  }
